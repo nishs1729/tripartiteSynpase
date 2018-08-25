@@ -16,4 +16,4 @@ Run these mdl files through terminal (linux) or command prompt (windows) with fo
 mcell main-I20V80.mdl
 ```
 
-Visit the [MCell Webpage](http://www.mcell.org/) for documentation, installation and tutorial on MCell.
+Visit the [MCell Webpage](http://www.mcell.org/) for documentation, installation and tutorial on MCell. Due to major changes in mcell, this model is not compatible with latest version of mcell. Use mcell v3.3 instead.
